@@ -1,4 +1,4 @@
-Techspace schedule
+Techspace schedule and class times
 
 Saturday
 Sunday
@@ -7,3 +7,5 @@ Wednesday
 These are training days at Techspace
 Saturday and Sunday from 10am - 1pm
 Wednesday from 7pm - 8pm est
+
+Slack for questions and other posts
